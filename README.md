@@ -43,5 +43,5 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Giuliano Azeituna :wave: - [Acesse o meu LinkedIn](https://www.linkedin.com/in/rafaelly-lemos/git)
+Feito com ♥ by Giuliano Azeituna :wave: - [Acesse o meu LinkedIn](https://www.linkedin.com/in/giuliano-azeituna-5591b71b6/)
 (Original Design by Rocketseat - [Participe da comunidade](https://discord.gg/rocketseat))
